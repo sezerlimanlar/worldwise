@@ -1,40 +1,76 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "PT",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "id": "e4a1",
+      "cityName": "les Escaldes",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-10-07T23:28:03.893Z",
+      "notes": "... idk more info",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
+        "lat": "42.48830197960227",
+        "lng": "1.5820312500000002"
+      }
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "ES",
-      "date": "2027-07-15T08:22:53.976Z",
+      "id": "95f3",
+      "cityName": "Agios Ioannis",
+      "country": "Cyprus",
+      "emoji": "🇨🇾",
+      "date": "2024-10-07T23:31:22.594Z",
+      "notes": "kktc",
+      "position": {
+        "lat": "35.0659731379842",
+        "lng": "33.17871093750001"
+      }
+    },
+    {
+      "id": "1cfc",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-10-07T23:32:42.983Z",
+      "notes": "a",
+      "position": {
+        "lat": "39.825413103424786",
+        "lng": "32.84912109375001"
+      }
+    },
+    {
+      "id": "0d2d",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-10-07T23:35:54.952Z",
+      "notes": "<3",
+      "position": {
+        "lat": "41.02964338716641",
+        "lng": "28.916015625000004"
+      }
+    },
+    {
+      "id": "ed63",
+      "cityName": "Al Musayyib",
+      "country": "Iraq",
+      "emoji": "🇮🇶",
+      "date": "2024-10-08T00:00:01.696Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
+        "lat": "32.97180377635759",
+        "lng": "44.16503906250001"
+      }
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "DE",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "5847",
+      "cityName": "Isparta",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-10-08T00:23:23.776Z",
+      "notes": "N",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+        "lat": "37.77071473849611",
+        "lng": "30.673828125000004"
+      }
     }
   ]
 }
